@@ -1,3 +1,7 @@
+"""
+PDF Generation App
+"""
+
 from fpdf import FPDF
 import pandas
 
